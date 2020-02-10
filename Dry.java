@@ -1,4 +1,4 @@
-package MavenCalculator.Sample.;
+package MavenCalculator.Sample;
 
 import java.util.Scanner;
 
